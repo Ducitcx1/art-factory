@@ -1,0 +1,25 @@
+# Default ignored files
+target/
+build/
+dist/
+dbt_modules/
+logs/
+dbt_airflow_manifest_parser.egg-info
+dbt_airflow_factory.egg-info
+.idea
+out
+
+.user.yml
+
+.coverage
+coverage.xml
+.tox
+
+*.iml
+
+docs/_build
+__pycache__/
+
+.venv/
+.vscode/
+.python-version
